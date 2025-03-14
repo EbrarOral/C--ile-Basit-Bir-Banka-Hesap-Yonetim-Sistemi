@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\INFOTECH YAZILIM UZM KURS\Basit Bir Banka Hesap Yönetim Sistemi\Basit Bir Banka Hesap Yönetim Sistemi\bin\Debug\net8.0\Basit Bir Banka Hesap Yönetim Sistemi.exe
+C:\Users\USER\Desktop\INFOTECH YAZILIM UZM KURS\Basit Bir Banka Hesap Yönetim Sistemi\Basit Bir Banka Hesap Yönetim Sistemi\bin\Debug\net8.0\Basit Bir Banka Hesap Yönetim Sistemi.deps.json
+C:\Users\USER\Desktop\INFOTECH YAZILIM UZM KURS\Basit Bir Banka Hesap Yönetim Sistemi\Basit Bir Banka Hesap Yönetim Sistemi\bin\Debug\net8.0\Basit Bir Banka Hesap Yönetim Sistemi.runtimeconfig.json
+C:\Users\USER\Desktop\INFOTECH YAZILIM UZM KURS\Basit Bir Banka Hesap Yönetim Sistemi\Basit Bir Banka Hesap Yönetim Sistemi\bin\Debug\net8.0\Basit Bir Banka Hesap Yönetim Sistemi.dll
+C:\Users\USER\Desktop\INFOTECH YAZILIM UZM KURS\Basit Bir Banka Hesap Yönetim Sistemi\Basit Bir Banka Hesap Yönetim Sistemi\bin\Debug\net8.0\Basit Bir Banka Hesap Yönetim Sistemi.pdb
+C:\Users\USER\Desktop\INFOTECH YAZILIM UZM KURS\Basit Bir Banka Hesap Yönetim Sistemi\Basit Bir Banka Hesap Yönetim Sistemi\obj\Debug\net8.0\Basit Bir Banka Hesap Yönetim Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\INFOTECH YAZILIM UZM KURS\Basit Bir Banka Hesap Yönetim Sistemi\Basit Bir Banka Hesap Yönetim Sistemi\obj\Debug\net8.0\Basit Bir Banka Hesap Yönetim Sistemi.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\INFOTECH YAZILIM UZM KURS\Basit Bir Banka Hesap Yönetim Sistemi\Basit Bir Banka Hesap Yönetim Sistemi\obj\Debug\net8.0\Basit Bir Banka Hesap Yönetim Sistemi.AssemblyInfo.cs
+C:\Users\USER\Desktop\INFOTECH YAZILIM UZM KURS\Basit Bir Banka Hesap Yönetim Sistemi\Basit Bir Banka Hesap Yönetim Sistemi\obj\Debug\net8.0\Basit Bir Banka Hesap Yönetim Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\INFOTECH YAZILIM UZM KURS\Basit Bir Banka Hesap Yönetim Sistemi\Basit Bir Banka Hesap Yönetim Sistemi\obj\Debug\net8.0\Basit Bir Banka Hesap Yönetim Sistemi.dll
+C:\Users\USER\Desktop\INFOTECH YAZILIM UZM KURS\Basit Bir Banka Hesap Yönetim Sistemi\Basit Bir Banka Hesap Yönetim Sistemi\obj\Debug\net8.0\refint\Basit Bir Banka Hesap Yönetim Sistemi.dll
+C:\Users\USER\Desktop\INFOTECH YAZILIM UZM KURS\Basit Bir Banka Hesap Yönetim Sistemi\Basit Bir Banka Hesap Yönetim Sistemi\obj\Debug\net8.0\Basit Bir Banka Hesap Yönetim Sistemi.pdb
+C:\Users\USER\Desktop\INFOTECH YAZILIM UZM KURS\Basit Bir Banka Hesap Yönetim Sistemi\Basit Bir Banka Hesap Yönetim Sistemi\obj\Debug\net8.0\Basit Bir Banka Hesap Yönetim Sistemi.genruntimeconfig.cache
+C:\Users\USER\Desktop\INFOTECH YAZILIM UZM KURS\Basit Bir Banka Hesap Yönetim Sistemi\Basit Bir Banka Hesap Yönetim Sistemi\obj\Debug\net8.0\ref\Basit Bir Banka Hesap Yönetim Sistemi.dll

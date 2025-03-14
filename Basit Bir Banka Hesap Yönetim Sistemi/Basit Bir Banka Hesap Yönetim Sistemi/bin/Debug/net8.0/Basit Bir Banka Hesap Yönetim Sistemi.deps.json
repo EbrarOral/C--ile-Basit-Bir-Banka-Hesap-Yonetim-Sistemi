@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Basit Bir Banka Hesap Yönetim Sistemi/1.0.0": {
+        "runtime": {
+          "Basit Bir Banka Hesap Yönetim Sistemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Basit Bir Banka Hesap Yönetim Sistemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
